@@ -38,8 +38,8 @@ def main():
         argv = sys.argv[1]
         commentScan("http://" + argv)
     except:
-        print("Usage: python3 test.py <url>")
-        print("Example: python test.py website.com")
+        print("Usage: python3 commentTagScraper.py <url>")
+        print("Example: python3 commentTagScraper.py website.com")
 
 
 if __name__ == "__main__":
