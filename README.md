@@ -1,2 +1,2 @@
 # commentTagScraper
-#Simple comment tag scraper in a web page.
+#Simple comments tag scraper in a web page.
